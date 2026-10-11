@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/JanHab/paper-2026-gsbl-bnns/blob/main/LICENSE)
 ToDo: DOI, docs??
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18998361.svg)](https://doi.org/10.5281/zenodo.18998361) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23184383.svg)](https://doi.org/10.5281/zenodo.23184383)
 
 Reproducibility repository for the article *Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors*
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Data
 
-The trained models and all results (`code/out/`, about 10 GB) are not part of this repository. They are archived on Zenodo (ToDo: add DOI/link). Download the archive and unpack it so that the folder `code/out/` exists. The notebooks and the figure scripts below read from there.
+The trained models and all results (`code/out/`, about 10 GB) are not part of this repository. They are archived on Zenodo [10.5281/zenodo.23184383](https://doi.org/10.5281/zenodo.23184383). Download the archive and unpack it so that the folder `code/out/` exists. The notebooks and the figure scripts below read from there.
 
 ### Generating the results
 
@@ -84,16 +84,22 @@ If you find these results useful or use the implementations provided here, pleas
 }
 ```
 
-ToDo: Update to Zenodo entry and add paper DOI, once we have it
+If you use the implementations provided here, please also cite this repository as
 
 ```bibtex
-@software{habscheid_2026_gsblbnns_repo,
-  author       = {Habscheid, Jan and
+@software{jan_habscheid_2026_23184383,
+  author       = {Jan Habscheid and
                   Glaubitz, Jan},
-  title        = {GSBL-BNNs},
+  title        = {Reproducibility repository for the article "Edge-
+                   preserving Bayesian neural networks via
+                   hierarchical sparsity-promoting priors"
+                  },
   month        = oct,
   year         = 2026,
-  url          = {https://github.com/JanHab/Paper-2026-GSBL-BNNs},
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.23184383},
+  url          = {https://doi.org/10.5281/zenodo.23184383},
 }
 ```
 
