@@ -1,0 +1,11 @@
+equinox==0.13.8
+jax==0.11.0
+jaxlib==0.11.0
+matplotlib==3.11.1
+numpy==2.5.1
+optax==0.2.8
+pandas==3.0.5
+SciencePlots==2.2.2
+tqdm==4.70.0
+scipy==1.18.0
+ipykernel==7.3.0
