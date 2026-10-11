@@ -1,7 +1,6 @@
 # GSBL-BNNs
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/JanHab/paper-2026-gsbl-bnns/blob/main/LICENSE)
-ToDo: DOI, docs??
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23184383.svg)](https://doi.org/10.5281/zenodo.23184383)
 
 Reproducibility repository for the article *Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors*
