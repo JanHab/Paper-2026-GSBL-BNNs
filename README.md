@@ -69,6 +69,8 @@ Each call loops over the noise levels 0.01, 0.05, 0.1, 0.2 and, for the GSBL mod
 python code/Run_PiecewiseConstant_Noisy.py 50 GSBL_Shared muon 10.0 100.0 GG
 ```
 
+**LaTeX requirement.** The notebooks use the [SciencePlots](https://github.com/garrettj403/SciencePlots) `science` style, which renders text with LaTeX. A working LaTeX installation is required. Without LaTeX, add `'no-latex'` to the style list in the first cell, i.e. `plt.style.use(['science', 'nature', 'grid', 'no-latex'])`.
+
 ## Citation
 
 If you find these results useful or use the implementations provided here, please cite the corresponding article.
