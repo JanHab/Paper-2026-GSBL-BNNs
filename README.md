@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Data
 
-The trained models and all results (`code/out/`, about 10 GB) are not part of this repository. They are archived on Zenodo [10.5281/zenodo.23184383](https://doi.org/10.5281/zenodo.23184383). Download the archive and unpack it so that the folder `code/out/` exists. The notebooks and the figure scripts below read from there.
+The trained models and all results (`code/out/`, about 10 GB) are not part of this repository. They are archived on Zenodo [10.5281/zenodo.23184383](https://doi.org/10.5281/zenodo.23184383). Download the archive and unpack it so that the folder `code/out/` exists. The notebooks and the figure scripts read from there.
 
 ### Generating the results
 
