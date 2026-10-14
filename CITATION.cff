@@ -7,8 +7,7 @@ authors:
 - family-names: "Glaubitz"
   given-names: "Jan"
   orcid: "https://orcid.org/0000-0002-3434-5563"
-title: "GSBL-BNNs"
-version: 1.0.0
-doi: 10.5281/zenodo.23184383
-date-released: 2026-10-11
-url: "https://doi.org/10.5281/zenodo.23184383"
+title: "Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors"
+doi: 10.48550/arXiv.2610.17023
+date-released: 2026-10-12
+url: "https://doi.org/10.48550/arXiv.2610.17023"

@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/JanHab/paper-2026-gsbl-bnns/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23184383.svg)](https://doi.org/10.5281/zenodo.23184383)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.17023-blueb.svg)](https://arxiv.org/abs/2610.17023)
 
 Reproducibility repository for the article *Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors*
 
@@ -76,12 +77,15 @@ python code/Run_PiecewiseConstant_Noisy.py 50 GSBL_Shared muon 10.0 100.0 GG
 If you find these results useful or use the implementations provided here, please cite the corresponding article.
 
 ```bibtex
-@article{habscheid_2026_gsblbnns,
-  author       = {Habscheid, Jan and
-                  Glaubitz, Jan},
-  title        = {Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors},
-  month        = oct,
-  year         = 2026,
+@article{habscheid2026edgepreservingbayesianneuralnetworks,
+      title={Edge-preserving Bayesian neural networks via hierarchical sparsity-promoting priors}, 
+      author={Jan Habscheid and Jan Glaubitz},
+      year={2026},
+      eprint={2610.17023},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      doi={10.48550/arXiv.2610.17023},
+      url={https://arxiv.org/abs/2610.17023}, 
 }
 ```
 
